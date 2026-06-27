@@ -1,0 +1,14 @@
+.iconButton {
+  background-color: white;
+  border: 2px solid !important;
+  margin: 0px 5px !important;
+}
+.iconButton:hover {
+  background-color: #c5c4c4 !important;
+}
+.todo {
+  transition: all 0.3s ease-in-out !important;
+}
+.todo:hover {
+  padding: 15px 0;
+}
